@@ -4,6 +4,39 @@
 </head>
 
 <body>
+
+<style type="text/css">
+tittle{
+	font-size: 28pt;
+	font-family: 'Julee', cursive;
+	color: orange;
+	
+
+}
+</style>
+
+</head>
+
+
+<body>
+
+<style type="text/css">       	
+body {
+		font-size: 16pt;
+		font-family: 'Julee', cursive;
+		text-align: left;
+		color: green;
+        background-color:#ffffe0;
+        border-color: red;
+        border-style:dashed;
+
+	}
+
+</style>
+<img src="http://25.media.tumblr.com/a5a06a9e276bcdb0917a8801359a97f7/tumblr_mltkkeqvPo1s7f7o4o1_250.jpg" align=right >
+
+
+
 <form action="https://docs.google.com/spreadsheet/formResponse?formkey=dDhFdFBITDc2X3FaUGNPaGRWb29mNlE6MQ&ifq" method="POST">
 <p>hidden_id
 <br>
